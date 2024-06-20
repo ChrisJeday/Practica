@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    background: url('resource/banner.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    margin-bottom: 0;
+    padding: 5rem 1rem;
+}
+
+.carousel-item img {
+    height: 600px;
+    object-fit: cover;
+}
+
+.carousel-img {
+    object-fit: cover;
+    width: 100%;
+    height: 600px; /* Ajusta según tus necesidades */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.text-center h2 {
+    margin-top: 1rem;
+}
